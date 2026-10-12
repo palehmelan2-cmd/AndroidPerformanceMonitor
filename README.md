@@ -24,9 +24,7 @@ dependencies {
     // debugCompile 'com.github.markzhai:blockcanary-android:1.5.0'
     // releaseCompile 'com.github.markzhai:blockcanary-no-op:1.5.0'
 }
-```
-
-As this library uses `getMainLooper().setMessageLogging()`, please check if you set it in your app (related issue https://github.com/moduth/blockcanary/issues/27)
+``
 
 # Usage
 
